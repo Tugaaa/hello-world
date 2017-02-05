@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hi Humans !
+
+Pedro here, I like python.
